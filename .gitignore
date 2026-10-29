@@ -1,0 +1,8 @@
+node_modules
+dist
+.wrangler
+.dev.vars
+.env
+*.local
+# customer data from the notepad import
+scripts/notepad-data.json
